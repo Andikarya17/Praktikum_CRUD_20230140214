@@ -230,7 +230,7 @@ curl http://localhost:8080/api/users
 ```bash
 curl -X PUT http://localhost:8080/api/users/{id} \
 -H "Content-Type: application/json" \
--d '{"name":"Mufid Ghibran","age":19}'
+-d '{"name":"Andika Arya Putra","age":19}'
 ```
 
 ## Delete User
