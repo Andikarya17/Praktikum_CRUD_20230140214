@@ -4,7 +4,7 @@ REST API sederhana untuk mengelola data user.
 
 ---
 Tampilan WEB:
-![Preview Index.html](Cuplikan layar 2026-03-04 205715.png)
+![Preview Index.html](preview.png)
 
 ## 🔗 Base URL
 
